@@ -67,5 +67,5 @@ This project presents a comprehensive analysis and predictive modeling of climat
 
 ---
 
-## 📁 Project Structure
+
 
